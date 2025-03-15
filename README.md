@@ -2,8 +2,7 @@
 
 
 -  I’m Graphic Designer based in **Almaty, Kazakhstan**
--  Check out Portfolio on **Behance**: behance.net/aibolatvisuals
--  Check out Resume on **Linkedin**: linkedin.com/in/aibolatvisuals/
+-  Check out Portfolio on **Behance** and Resume on **Linkedin** in profile links
 
 
 **Visual Artist | UX/UI & Brand Designer**
