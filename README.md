@@ -1,9 +1,9 @@
 ## Salem Alem 👋
 
 
--  I’m Graphic Designer based in Almaty, Kazakhstan
--  Check out Portfolio on Behance: [**click**]([url](https://www.behance.net/aibolatvisuals))
--  Check out Resume on Linkedin: [**click**]([url](https://www.linkedin.com/in/aibolatvisuals/))
+-  I’m Graphic Designer based in **Almaty, Kazakhstan**
+-  Check out Portfolio on **Behance**: behance.net/aibolatvisuals
+-  Check out Resume on **Linkedin**: linkedin.com/in/aibolatvisuals/
 
 
 **Visual Artist | UX/UI & Brand Designer**
